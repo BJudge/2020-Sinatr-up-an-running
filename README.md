@@ -1,1 +1,1 @@
-# 2020-Sinatr-up-an-running
+# 2020-Sinatra-up-an-running
